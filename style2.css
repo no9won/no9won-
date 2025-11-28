@@ -1,0 +1,15 @@
+span {
+    font-family: “"IBM Plex Sans KR", sans-serif;”
+    color: slateblue;
+    opacity: 0;
+    transition: opacity ease-in 200ms;
+    transition-delay: 120ms;
+    font-size: 48px;
+    margin: 10px;
+    white-space: normal;
+}
+
+span:hover {
+    opacity: 0.2;
+    transition: opacity 50ms linear;
+}

@@ -1,0 +1,47 @@
+.ibm-plex-sans-kr-regular {
+font-family: "IBM Plex Sans KR", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+
+
+body{
+    font-family:"IBM Plex Sans KR", sans-serif;
+    font-size: 20px;
+}
+
+
+
+h1{
+    color: red;
+    font-size: 12pt; 
+    color: blue; 
+    background-color: pink; 
+    text-align: center ;
+    line-height: 15pt;
+    border: 5px solid blue;
+}
+
+h1:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+a, 
+a:visited, 
+a:link{
+    text-decoration: none;
+    color: hex code(ff0000);
+}
+a:focus {
+    color: darkgrey;
+}
+
+.start {
+    font-size:80px;
+}
+
+#second {
+    font-size: 80px;
+}
